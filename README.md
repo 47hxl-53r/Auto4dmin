@@ -19,7 +19,7 @@ cd Auto4dmin
 python3 admin.py
 ```
 # CONTACT
-Click [here](https://wa.me/+40747777738) to contact me
+Click [here](https://wa.me/+687977707) to contact me
 
 # REQUIREMENTS
 > Linux, Termux, Windows
